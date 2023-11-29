@@ -11,14 +11,14 @@ A szivárványos guppi az egyik legnépszerűbb és és egyik leggyakoribb akvá
 Szivárványos guppik:<br>
 ![Szivárványos guppik](https://github.com/Drazith/Markdown-szorgalmi/blob/main/szivarvanyos-guppi.jpg "Szivárványos guppik")<br>
 ### Megfelelő tartási körülmények
-Tiszta vízben érzik magukat a legjobban, nem kifejezetten érzékenyek a víz tisztaságára.<br>
-A szivárványos guppik tartása során fontos biztosítani a megfelelő környezeti feltételeket az egészségük és jólétük érdekében. Íme néhány fontos tényező:
+Tiszta vízben érzik magukat a legjobban, de nem kifejezetten érzékenyek a víz tisztaságára.<br>
+Azonban a szivárványos guppik tartása során is fontos biztosítani a megfelelő környezeti feltételeket az egészségük és jólétük érdekében. Íme néhány fontos tényező:
 1.	Akvárium mérete: Legalább 40-60 literes akvárium ajánlott egy kis csoport (4-6 db) szivárványos guppi számára. Minél nagyobb a hely, annál jobban érzik magukat. *Gyerekkoromban az akváriumok ragasztása és a jelentős falvastagság miatt csak kisebb méretű akváriumot használhattunk, nekem egy 30 és egy 40 literes akváriumom volt, amelyben az előbb ajánlott darabszámnál több halat tartottam.*
 2.	Vízparaméterek: A szivárványos guppik számára ideális vízparaméterek általában a következők:
-    - Hőmérséklet: 24-28 Celsius fok között.
-    - pH: 6,8-7,8 között.
-    - Keménység: 10-20 dH.
-3.	Szűrés és oxigénellátás: Szivárványos guppik igénylik a tiszta vizet és a jó oxigénellátást. Ha nem megfelelő a víz oxigén szintje, növekedésük lelassul, és hamar betegek lesznek. Egy hatékony szűrőrendszer és egy levegőztető készülék segíthet fenntartani a vízminőséget.<br>
+    - hőmérséklet: 24-28 Celsius fok között
+    - pH: 6,8-7,8 között
+    - vízkeménység: 10-20 dH
+3.	Szűrés és oxigénellátás: Szivárványos guppik szeretik a tiszta vizet és a jó oxigénellátást. Ha nem megfelelő a víz oxigén szintje, növekedésük lelassul, és hamarabb betegek lesznek. Egy hatékony szűrőrendszer és egy levegőztető készülék segíthet fenntartani a vízminőséget.<br>
 4.	Vízcserék: Rendszeres vízcserékre van szükség a szivárványos guppik akváriumában annak érdekében, hogy megakadályozzuk a vízminőség romlását. Hetente cseréljük ki a vízmennyiség negyedét/ötödét.
 5.	Dekoráció és növények: Biztosítsunk elegendő búvóhelyet és úszótérteret számukra. Még akkor is, ha a szivárványos guppik nem igényelnek bonyolult díszítést, néhány műnövény vagy valódi növény hozzájárulhat a természetes környezethez. A dús növényzet remek búvóhelyet biztosít az guppi utódoknak is.
 6.	Táplálkozás: Adjon nekik változatos étrendet, beleértve a száraz és fagyasztott élelmiszereket is. A kiegyensúlyozott táplálkozás hozzájárul az egészségükhöz és a színváltozatosságukhoz.<br>
